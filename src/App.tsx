@@ -690,8 +690,8 @@ export default function App() {
               </RevealSection>
               <RevealSection delay={300}>
                 <div className="space-y-0 mt-12">
-                  {[
-                    { meta: 'Email', label: 'muzafer@example.com', href: 'mailto:muzafer@example.com', Icon: Mail },
+                {[
+  { meta: 'Email', label: 'shaikhmuzafer10@gmail.com', href: 'mailto:shaikhmuzafer10@gmail.com', Icon: Mail },
                     { meta: 'GitHub', label: 'github.com/muzafer26', href: 'https://github.com/muzafer26', Icon: Github },
                     { meta: 'LinkedIn', label: 'linkedin.com/in/muzafer-shaikh', href: 'https://www.linkedin.com/in/muzafer-shaikh-726a40338/', Icon: Linkedin },
                   ].map(link => (
